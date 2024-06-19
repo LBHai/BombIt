@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: e07350926b233cc4ca29f8ea059c1c94
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Transparent Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a12a6e8bfd9b0f49bb86d6b5f2b9660
+      internalID: 619202429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75153610f1d1934396bb79cfc70d62d
+      internalID: -382557978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043f79e091299df42b54275767e833f9
+      internalID: -881358659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263ca9b81802ce54e8d87b30e8485d5a
+      internalID: -56933261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f419fbce61ace0448e61ccbec7c96aa
+      internalID: 265201546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc175d0fed719d43a22938a459d25f1
+      internalID: -823959302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9848f5fd5ecd7cf419953e2cb760e7fa
+      internalID: -477537482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ddb85bd289cf4e8b13520a19efa00
+      internalID: -1131731024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7867a5b47c764b8ff549011aa64a1
+      internalID: -1790965111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1adc51903d504e47b993fc02f2e194c
+      internalID: 1728538358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 126.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73999af0b0336c546adcfa0577af8bc2
+      internalID: -413929511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474ec0ddc00e2fb488bd021aa609b581
+      internalID: -758851542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38d58fa9e548147a67461d60f0892f
+      internalID: 732642513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc86711c2ee2d6248bc352bb05d29d3d
+      internalID: -168116266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc12fe7e3566b3f4f89ebf4718e9d2ea
+      internalID: 1367759366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9436a04eed09c924783098f1d2d45eb5
+      internalID: -823885851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627cba7f97937654894e1f9dfcd475af
+      internalID: 216818264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e3b50f8b72ca4ea114b422bd24a56
+      internalID: 251467174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425ca2e4bb721d43b935f679310557d
+      internalID: 1585127430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d09d4a75946c044796f004a21f299dd
+      internalID: 1995689819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51985c722a660499b645d11740958e
+      internalID: 658247227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0640135f1f87e46a751646bb2d4bbc
+      internalID: 2144373545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82938ba4769225c4aa680fba96071d84
+      internalID: 428846108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbda8f3ee15b44aa7a6c74605cb39f
+      internalID: 427408631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf5d50d4d456954b8f03916332cc1a3
+      internalID: 1283752092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ae0a2889bb258448cacee89fa3a7ab
+      internalID: 495387620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71851c6ffd21cd849b8d081d3b347719
+      internalID: 121734026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e94cd506d4fc43ada54a069dcac9b
+      internalID: -1409482376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bf371f09b3c6d4c81a051924dc1d29
+      internalID: 1176675281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1ff9ad3cdbb54ebb225d0a5b87f92
+      internalID: -1839267923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e05ae1df31a9e242aa76687a901d0ae
+      internalID: 682599080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62694f93e18d13a4cbf815e694c208f2
+      internalID: 764752981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e90deb44c16884d8fba4c3db489474
+      internalID: -2047852758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d395fd08e3205f949bf014f3e31b16f6
+      internalID: -1774520476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc8981f266be54383366fab002d96e
+      internalID: 2105584107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8872f0344b31d4c96bc8b1d8c3753c
+      internalID: -83647266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eedd2502aae54e4a9692cf4046f6b3a
+      internalID: 1626147598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe083a9684cd04fb4ebf824998b686
+      internalID: -551971826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 33.4
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f6b9aea3f84945875e421f5bc892f
+      internalID: 1161108217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec581c329af9c428b6736eb884f198
+      internalID: 1145214651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562aca07eca5dc43bbc8d94cf96a2f8
+      internalID: -1399594960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cce21dc3ae6cc4e9ebe5db93aa8265
+      internalID: -1296640887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c9ff06e95faa84a96686124f17b189
+      internalID: -1839444117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9b2a6b14480e44beec4db9cd76f72
+      internalID: -1237858206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eae1b4b15d7a34496d794261f69a1c
+      internalID: -1306463645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ed6c94515ef84ebd62e49a3269421
+      internalID: -898177177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b63c79509702a4593ca7503ab84455
+      internalID: -804034091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5adc345568c98243b8bea66ee829288
+      internalID: -660782582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0385b7a4f362ec549b01df22fb043d1f
+      internalID: 1099145037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617bf5a3abaf3cc4489818622d2c5756
+      internalID: -749002686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f77db60f75336c4faef62c0438d6d4c
+      internalID: -446675448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a76ddbcd1264468e83bd3d1a186d1
+      internalID: 1006790238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87820f4cf2184428688d4e50903df3
+      internalID: -371890675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent Icons_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2.3999996
+        width: 32
+        height: 31.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373780e0d34d0848a0b681082b4be6c
+      internalID: 185192739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Transparent Icons_0: 619202429
+      Transparent Icons_1: -382557978
+      Transparent Icons_10: -413929511
+      Transparent Icons_11: -758851542
+      Transparent Icons_12: 732642513
+      Transparent Icons_13: -168116266
+      Transparent Icons_14: 1367759366
+      Transparent Icons_15: -823885851
+      Transparent Icons_16: 216818264
+      Transparent Icons_17: 251467174
+      Transparent Icons_18: 1585127430
+      Transparent Icons_19: 1995689819
+      Transparent Icons_2: -881358659
+      Transparent Icons_20: 658247227
+      Transparent Icons_21: 2144373545
+      Transparent Icons_22: 428846108
+      Transparent Icons_23: 427408631
+      Transparent Icons_24: 1283752092
+      Transparent Icons_25: 495387620
+      Transparent Icons_26: 121734026
+      Transparent Icons_27: -1409482376
+      Transparent Icons_28: 1176675281
+      Transparent Icons_29: -1839267923
+      Transparent Icons_3: -56933261
+      Transparent Icons_30: 682599080
+      Transparent Icons_31: 764752981
+      Transparent Icons_32: -2047852758
+      Transparent Icons_33: -1774520476
+      Transparent Icons_34: 2105584107
+      Transparent Icons_35: -83647266
+      Transparent Icons_36: 1626147598
+      Transparent Icons_37: -551971826
+      Transparent Icons_38: 1161108217
+      Transparent Icons_39: 1145214651
+      Transparent Icons_4: 265201546
+      Transparent Icons_40: -1399594960
+      Transparent Icons_41: -1296640887
+      Transparent Icons_42: -1839444117
+      Transparent Icons_43: -1237858206
+      Transparent Icons_44: -1306463645
+      Transparent Icons_45: -898177177
+      Transparent Icons_46: -804034091
+      Transparent Icons_47: -660782582
+      Transparent Icons_48: 1099145037
+      Transparent Icons_49: -749002686
+      Transparent Icons_5: -823959302
+      Transparent Icons_50: -446675448
+      Transparent Icons_51: 1006790238
+      Transparent Icons_52: -371890675
+      Transparent Icons_53: 185192739
+      Transparent Icons_6: -477537482
+      Transparent Icons_7: -1131731024
+      Transparent Icons_8: -1790965111
+      Transparent Icons_9: 1728538358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
