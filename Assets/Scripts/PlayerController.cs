@@ -18,7 +18,6 @@ public class PlayerController : MonoBehaviour
     public float initialSpeed;
     public float currentSpeed;
     public RestartGameUI restartGameUI;
-    
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
@@ -26,7 +25,7 @@ public class PlayerController : MonoBehaviour
         health = maxHealth;
         healthHeartBar.UpdateHearts();
         initialSpeed = speed; 
-        currentSpeed = speed; 
+        currentSpeed = speed;
     }
     void Update()
     {
@@ -66,6 +65,7 @@ public class PlayerController : MonoBehaviour
                 {
                     _anim.SetTrigger("isDead");
                     restartGameUI.ShowRestartPanel();
+                    Time.timeScale = 0f;
                 }
 
                 if (healthHeartBar != null)
@@ -126,6 +126,7 @@ public class PlayerController : MonoBehaviour
                 {
                     _anim.SetTrigger("isDead");
                     restartGameUI.ShowRestartPanel();
+                    Time.timeScale = 0f;
                 }
 
                 if (healthHeartBar != null)

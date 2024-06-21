@@ -6,11 +6,13 @@ using UnityEngine.UI;
 
 public class EnemySpawner : MonoBehaviour
 {
-    public GameObject enemyPrefab; 
+    public GameObject enemyPrefab;
     public float spawnInterval = 2f;
-    public int spawnLimit = 3; 
-    private int currentEnemyCount = 0; 
+    public int spawnLimit = 3;
+    private int currentEnemyCount = 0;
     public Tilemap groundTilemap;
+    public Text totalKillText;
+    private int totalKills = 0;
 
     void Start()
     {
@@ -64,9 +66,19 @@ public class EnemySpawner : MonoBehaviour
     public void EnemyDestroyed()
     {
         currentEnemyCount--;
-        
+        totalKills++; 
+        Debug.Log("Current Enemy Count: " + currentEnemyCount);
+        Debug.Log("Total Kills: " + totalKills); 
+        UpdateTotalKillsText();
     }
 
-   
 
+    void UpdateTotalKillsText()
+    {
+        if (totalKillText != null)
+        {
+            totalKillText.text = "Total Kills: " + totalKills.ToString();
+        }
+        
+    }
 }
